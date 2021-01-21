@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r6dsA18r0keG1hx9yFivkc+Yj+FqGikx9XXM8rDf52oTOv+I6+Ko6ajn8fjUTnNEapsG+gYg/cyErNRjEg/F2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\encurtador-ale\\UrlShortener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\litedb\\5.0.10\\litedb.5.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
